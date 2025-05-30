@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Calculator</h1>
 
-<p align="center"><img src="https://socialify.git.ci/BrigidAn/Calculator/image?font=Source+Code+Pro&amp;language=1&amp;name=1&amp;pattern=Transparent&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/BrigidAn/Calculator/image?font=Source+Code+Pro&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Light" alt="project-image"></p>
 
 <p id="description">This is a simple calculator application that was created using Android Studio Kotlin. It’s one of the basic projects I built and it wasn’t too difficult at all—it works perfectly! This application is ideal for students who want to start with something straightforward and engaging.</p>
 
